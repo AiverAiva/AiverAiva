@@ -9,10 +9,25 @@ hewo im weiku, a student, full stack developer from Taiwan
 * My discord: @aiveraiva
 
 if u like my repos please drop a star <3
-
+## Checkout My Projects
+#### don't hesitate to give them a star if you like the idea, thank you👇🏽
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/AiverAiva/weikuwu.me"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AiverAiva&repo=weikuwu.me" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/AiverAiva/osu-box"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AiverAiva&repo=osu-box" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/AiverAiva/cdn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AiverAiva&repo=cdn" /></a>
+    </td>
+  </tr>
+</table>
 
 <!--
-**WeiKuOuO/WeiKuOuO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
