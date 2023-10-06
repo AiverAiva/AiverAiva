@@ -10,7 +10,7 @@
         <br/>
         🚀 &nbsp; APIs：<a href="https://api.weikuwu.me">api.weikuwu.me</a>
         <br/>
-        🚀 &nbsp; Status/Uptime Monitoring：<a href="https://status.weikuwu.me">status.weikuwu.me</a>
+        🚀 &nbsp; Status/Uptime：<a href="https://status.weikuwu.me">status.weikuwu.me</a>
         <br/>
         💞️ &nbsp; My discord: @aiveraiva
         <br/>
