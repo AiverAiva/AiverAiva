@@ -8,6 +8,10 @@
         <h3>hewo im weiku, a student, full stack developer from Taiwan </h3>
         🚀 &nbsp; My site：<a href="https://weikuwu.me">weikuwu.me</a>
         <br/>
+        🚀 &nbsp; APIs：<a href="https://api.weikuwu.me">api.weikuwu.me</a>
+        <br/>
+        🚀 &nbsp; Status/Uptime Monitoring：<a href="https://status.weikuwu.me">status.weikuwu.me</a>
+        <br/>
         💞️ &nbsp; My discord: @aiveraiva
         <br/>
         <br/>
