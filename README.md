@@ -36,7 +36,7 @@
       <a href="https://github.com/AiverAiva/osu-box"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AiverAiva&repo=osu-box" /></a>
     </td>
     <td>
-      <a href="https://github.com/AiverAiva/osu-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AiverAiva&repo=osu-stats" /></a>
+      <a href="https://github.com/AiverAiva/osu-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AiverAiva&repo=api" /></a>
     </td>
   </tr> 
   <tr>
