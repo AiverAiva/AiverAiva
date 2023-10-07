@@ -81,11 +81,11 @@
 
 [![Rust](https://img.shields.io/badge/-Rust-141414?style=flat&logo=rust)](https://www.rust-lang.org/)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-141414?style=flat&logo=kotlin)](https://kotlinlang.org/)
-
+![C](https://img.shields.io/badge/-C-141414?style=flat&logo=c)
 ### Planned Languages to Learn
 
 [![C#](https://img.shields.io/badge/-C%23-141414?style=flat&logo=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-![C](https://img.shields.io/badge/-C-141414?style=flat&logo=c)
+[![Go](https://img.shields.io/badge/-Go-141414?style=flat&logo=go)](https://go.dev/)
 ![Clojure](https://img.shields.io/badge/-Clojure-141414?style=flat&logo=clojure)
 
 ### Linux Distros that I know and use
@@ -94,6 +94,7 @@
 
 ### Frameworks that I know and/or use
 [![TailWind CSS](https://img.shields.io/badge/-Tailwind%20CSS-141414?style=flat&logo=tailwindcss)](https://tailwindcss.com)
+[![Boostrap](https://img.shields.io/badge/-Bootstrap-141414?style=flat&logo=bootstrap)](https://getbootstrap.com/)
 [![React](https://img.shields.io/badge/-React-141414?style=flat&logo=react)](https://reactjs.org)
 [![Next.js](https://img.shields.io/badge/-Next.js-141414?style=flat&logo=nextdotjs)](https://nextjs.org/org)
 [![Vue.js](https://img.shields.io/badge/-Vue.js-141414?style=flat&logo=vue.js)](https://vuejs.org/)
@@ -122,11 +123,14 @@
 [![Yarn](https://img.shields.io/badge/-Yarn-141414?style=flat&logo=yarn)](https://yarnpkg.com/)
 [![Vite](https://img.shields.io/badge/-Vite-141414?style=flat&logo=vite)](https://vitejs.dev/)
 [![ESLint](https://img.shields.io/badge/-ESLint-141414?style=flat&logo=eslint)](https://eslint.org/)
-[![Discord](https://img.shields.io/badge/-Discord-141414?style=flat&logo=discord&logoColor=white)](https://discord.com)
+[![Discord](https://img.shields.io/badge/-Discord-141414?style=flat&logo=discord)](https://discord.com)
 [![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-141414?style=flat&logo=adobepremierepro)]()
 [![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-141414?style=flat&logo=adobeaftereffects)]()
 [![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-141414?style=flat&logo=adobephotoshop)]()
-
+[![Heroku](https://img.shields.io/badge/-Heroku-141414?style=flat&logo=heroku)](https://www.heroku.com/)
+[![Repl.it](https://img.shields.io/badge/-Repl.it-141414?style=flat&logo=replit)](https://replit.com/)
+[![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-141414?style=flat&logo=raspberrypi)](https://www.raspberrypi.com/)
+[![Arduino](https://img.shields.io/badge/-Arduino-141414?style=flat&logo=arduino)](https://www.arduino.cc/)
 
 
 ---
