@@ -29,23 +29,23 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/AiverAiva/weikuwu.me"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AiverAiva&repo=weikuwu.me" /></a>
+      <a href="https://github.com/AiverAiva/weikuwu.me"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AiverAiva&repo=weikuwu.me&theme=dracula&hide_border=true&border_radius=8&icon_color=FFB3B3" /></a>
     </td>
     <td>
-      <a href="https://github.com/AiverAiva/cdn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AiverAiva&repo=cdn" /></a>
+      <a href="https://github.com/AiverAiva/cdn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AiverAiva&repo=cdn&theme=dracula&hide_border=true&border_radius=8&icon_color=FFB3B3" /></a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/AiverAiva/osu-box"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AiverAiva&repo=osu-box" /></a>
+      <a href="https://github.com/AiverAiva/osu-box"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AiverAiva&repo=osu-box&theme=dracula&hide_border=true&border_radius=8&icon_color=FFB3B3" /></a>
     </td>
     <td>
-      <a href="https://github.com/AiverAiva/osu-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AiverAiva&repo=api" /></a>
+      <a href="https://github.com/AiverAiva/osu-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AiverAiva&repo=api&theme=dracula&hide_border=true&border_radius=8&icon_color=FFB3B3" /></a>
     </td>
   </tr> 
   <tr>
     <td>
-      <a href="https://github.com/AiverAiva/problem-solutions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AiverAiva&repo=problem-solutions" /></a>
+      <a href="https://github.com/AiverAiva/problem-solutions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AiverAiva&repo=problem-solutions&theme=dracula&hide_border=true&border_radius=8&icon_color=FFB3B3" /></a>
     </td>
 <!--     <td>
       <a href="https://github.com/AiverAiva/osu-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AiverAiva&repo=osu-stats" /></a>
