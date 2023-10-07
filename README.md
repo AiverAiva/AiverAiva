@@ -39,13 +39,16 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/AiverAiva/osu-box"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AiverAiva&repo=osu-box&theme=dracula&hide_border=true&border_radius=8&icon_color=FFB3B3" /></a>
+      <a href="https://github.com/AiverAiva/nya"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AiverAiva&repo=nya&theme=dracula&hide_border=true&border_radius=8&icon_color=FFB3B3" /></a>
     </td>
     <td>
       <a href="https://github.com/AiverAiva/osu-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AiverAiva&repo=api&theme=dracula&hide_border=true&border_radius=8&icon_color=FFB3B3" /></a>
     </td>
   </tr> 
   <tr>
+    <td>
+      <a href="https://github.com/AiverAiva/osu-box"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AiverAiva&repo=osu-box&theme=dracula&hide_border=true&border_radius=8&icon_color=FFB3B3" /></a>
+    </td>
     <td>
       <a href="https://github.com/AiverAiva/problem-solutions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AiverAiva&repo=problem-solutions&theme=dracula&hide_border=true&border_radius=8&icon_color=FFB3B3" /></a>
     </td>
