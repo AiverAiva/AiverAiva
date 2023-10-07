@@ -18,10 +18,10 @@
         if u like my repos please drop a star <3
         <br/>
     </td>
-    <td>
-      <img align="center" width=330 src="https://github-readme-stats.vercel.app/api?username=AiverAiva&show_icons=true&theme=dracula&border_radius=8&icon_color=df648c&text_color=718096&hide_title=true&hide_border=true"/>
-      <img align="center" width=330 src="https://streak-stats.demolab.com/?user=AiverAiva&theme=dracula&hide_border=true" alt="AiverAiva" />
-      <img align="center" width=330 src="https://github-readme-stats.vercel.app/api/top-langs/?&username=AiverAiva&theme=dracula&layout=compact&hide_border=true&icon_color=FFB3B3" />
+    <td width=350>
+      <img align="center" width=100% src="https://github-readme-stats.vercel.app/api?username=AiverAiva&show_icons=true&theme=dracula&border_radius=8&icon_color=df648c&text_color=718096&hide_title=true&hide_border=true"/>
+      <img align="center" width=100% src="https://streak-stats.demolab.com/?user=AiverAiva&theme=dracula&hide_border=true" alt="AiverAiva" />
+      <img align="center" width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?&username=AiverAiva&theme=dracula&layout=compact&hide_border=true&icon_color=FFB3B3" />
     </td>
   </tr>
 </table>
