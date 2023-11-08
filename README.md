@@ -5,7 +5,7 @@
   <tr>
     <td valign="center">
       <p>
-        <h3>hewo im weiku, a student, full stack developer from Taiwan </h3>
+        <h3>hewo im weiku, a student from Taiwan </h3>
         🚀 &nbsp; My site：<a href="https://weikuwu.me">weikuwu.me</a>
         <br/>
         🌱 &nbsp; APIs：<a href="https://api.weikuwu.me">api.weikuwu.me</a>
