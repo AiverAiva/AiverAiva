@@ -114,6 +114,7 @@
 
 ### Databases I know and use
 [![MySQL](https://img.shields.io/badge/-MySQL-141414?style=flat&logo=mysql&logoColor=FFFFFF)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-141414?style=flat&logo=mongodb)](https://www.mongodb.com/)
 
 ### Tools and Tech that I use
 
