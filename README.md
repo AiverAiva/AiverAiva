@@ -146,6 +146,18 @@
 ---
 
 </details>
+
+
+
+<details>
+<summary>
+
+## 🥇 Best repos in my mind
+</summary>
+thefuck - https://github.com/nvbn/thefuck
+</details>
+
+
 <details>
 <summary>
 
@@ -153,3 +165,5 @@
 </summary>
 MACHINE LEARNING STUFF
 </details>
+
+
