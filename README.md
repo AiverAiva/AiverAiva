@@ -1,4 +1,4 @@
-[![Header](https://media.discordapp.net/attachments/1016353555143196835/1131678881137561723/109913360_p0.png?width=1440&height=520)](https://weikuwu.me/)
+[![Header](https://imgur-archive.ppy.sh/discord/1016353555143196835-1131678881137561723-109913360_p0.png?width=1440&height=520)](https://weikuwu.me/)
 ### Welcowomw tu my prowofilw ❤️ 
 
 <table>
