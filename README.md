@@ -6,7 +6,7 @@
     <td valign="center">
       <p>
         <h2>hewo im weiku, a student from Taiwan.</h3>
-        <h3>Currently studying computer science in university.</h3>
+        <h3>Currently studying artificial intelligence and computer science in university.</h3>
         🚀 &nbsp; My site：<a href="https://weikuwu.me">weikuwu.me</a>
         <br/>
         🌱 &nbsp; APIs：<a href="https://api.weikuwu.me">api.weikuwu.me</a>
