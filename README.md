@@ -97,7 +97,6 @@
 ### Planned Languages to Learn
 
 [![elixir](https://img.shields.io/badge/-Elixir-141414?style=flat&logo=elixir)](https://elixir-lang.org/)
-[![C#](https://img.shields.io/badge/-C%23-141414?style=flat&logo=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Go](https://img.shields.io/badge/-Go-141414?style=flat&logo=go)](https://go.dev/)
 ![Clojure](https://img.shields.io/badge/-Clojure-141414?style=flat&logo=clojure)
 
