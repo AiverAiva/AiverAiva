@@ -72,6 +72,7 @@
 [![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-141414?style=flat&logo=javascript)](https://www.javascript.com/)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-141414?style=flat&logo=kotlin)](https://kotlinlang.org/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-141414?style=flat&logo=typescript)](https://www.typescriptlang.org/)
 
 ### Languages That I Currently Use
 
@@ -81,25 +82,28 @@
 ![C++](https://img.shields.io/badge/-C++-141414?style=flat&logo=c%2B%2B)
 [![Java](https://img.shields.io/badge/-Java-141414?style=flat&logo=openjdk)](https://adoptium.net/)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-141414?style=flat&logo=kotlin)](https://kotlinlang.org/)
+[![Rust](https://img.shields.io/badge/-Rust-141414?style=flat&logo=rust)](https://www.rust-lang.org/)
+[![Go](https://img.shields.io/badge/-Go-141414?style=flat&logo=go)](https://go.dev/)
+![C](https://img.shields.io/badge/-C-141414?style=flat&logo=c)
 
 ### Languages that I am learning or have started
-
 [![Rust](https://img.shields.io/badge/-Rust-141414?style=flat&logo=rust)](https://www.rust-lang.org/)
+[![Go](https://img.shields.io/badge/-Go-141414?style=flat&logo=go)](https://go.dev/)
 ![C](https://img.shields.io/badge/-C-141414?style=flat&logo=c)
+
 ### Planned Languages to Learn
 
 [![elixir](https://img.shields.io/badge/-Elixir-141414?style=flat&logo=elixir)](https://elixir-lang.org/)
-[![Go](https://img.shields.io/badge/-Go-141414?style=flat&logo=go)](https://go.dev/)
 ![Clojure](https://img.shields.io/badge/-Clojure-141414?style=flat&logo=clojure)
 
-### Linux Distros that I know and use
+### Linux Distros 
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-141414?style=flat&logo=ubuntu)](https://ubuntu.com/)
 [![Arch Linux](https://img.shields.io/badge/-Arch-141414?style=flat&logo=archlinux)](https://archlinux.org/)
 [![Kali Linux](https://img.shields.io/badge/-Kali-141414?style=flat&logo=kalilinux)](https://www.kali.org/)
 
 ### Frontend
 ![HTML](https://img.shields.io/badge/-HTML-141414?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-141414?style=flat&logo=css3)
+![CSS](https://img.shields.io/badge/-CSS-141414?style=flat&logo=css)
 [![TailWind CSS](https://img.shields.io/badge/-Tailwind%20CSS-141414?style=flat&logo=tailwindcss)](https://tailwindcss.com)
 [![Boostrap](https://img.shields.io/badge/-Bootstrap-141414?style=flat&logo=bootstrap)](https://getbootstrap.com/)
 [![React](https://img.shields.io/badge/-React-141414?style=flat&logo=react)](https://reactjs.org)
@@ -115,12 +119,15 @@
 [![Django](https://img.shields.io/badge/-Django-141414?style=flat&logo=django)](https://www.djangoproject.com/)
 [![FastAPI](https://img.shields.io/badge/-FastAPI-141414?style=flat&logo=fastapi)](https://fastapi.tiangolo.com/)
 
-### Databases I know and use
+### Databases 
 [![MySQL](https://img.shields.io/badge/-MySQL-141414?style=flat&logo=mysql&logoColor=FFFFFF)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-141414?style=flat&logo=mongodb)](https://www.mongodb.com/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-141414?style=flat&logo=postgresql)](https://www.postgresql.org/)
+[![Redis](https://img.shields.io/badge/-Redis-141414?style=flat&logo=redis)](https://redis.io/)
+[![ClickHouse](https://img.shields.io/badge/-ClickHouse-141414?style=flat&logo=clickhouse)](https://clickhouse.com/)
+[![Elastic](https://img.shields.io/badge/-Elsatic-141414?style=flat&logo=elastic)](https://www.elastic.co/)
 
-### Tools and Tech that I use
+### Tools and Tech 
 [![NeoVim](https://img.shields.io/badge/-NeoVim-141414?style=flat&logo=neovim)](https://neovim.io)
 [![Nginx](https://img.shields.io/badge/-Nginx-141414?style=flat&logo=nginx)](https://nginx.org/)
 [![Bash](https://img.shields.io/badge/-Bash-141414?style=flat&logo=gnubash)](https://www.gnu.org/software/bash/)
@@ -130,10 +137,20 @@
 [![Yarn](https://img.shields.io/badge/-Yarn-141414?style=flat&logo=yarn)](https://yarnpkg.com/)
 [![ESLint](https://img.shields.io/badge/-ESLint-141414?style=flat&logo=eslint)](https://eslint.org/)
 
+### Cloud Service 
+[![Vercel](https://img.shields.io/badge/-Vercel-141414?style=flat&logo=vercel)](https://vercel.com/)
+[![Railway](https://img.shields.io/badge/-Railway-141414?style=flat&logo=railway)](https://railway.com/)
+[![Cloudflare](https://img.shields.io/badge/-Cloudflare-141414?style=flat&logo=cloudflare)](https://www.cloudflare.com/)
+[![Heroku](https://img.shields.io/badge/-Heroku-141414?style=flat&logo=heroku)](https://www.heroku.com/)
+[![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-141414?style=flat&logo=googlecloud)](https://cloud.google.com/)
+[![Oracle Cloud](https://img.shields.io/badge/-Oracle%20Cloud-141414?style=flat)](https://www.oracle.com/cloud/)
+[![AWS EC2](https://img.shields.io/badge/-Amazon%20EC2-141414?style=flat)](https://aws.amazon.com/ec2/)
+
 ### Misc
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-141414?style=flat&logo=raspberrypi)](https://www.raspberrypi.com/)
 [![Arduino](https://img.shields.io/badge/-Arduino-141414?style=flat&logo=arduino)](https://www.arduino.cc/)
 
+[![ESLint](https://img.shields.io/badge/-ESLint-141414?style=flat&logo=eslint)](https://eslint.org/)
 ---
 
 </details>
