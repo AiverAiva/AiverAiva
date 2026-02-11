@@ -40,18 +40,18 @@
   <table align="center">
     <tr>
       <td>
-        <a href="https://github.com/AiverAiva/weikuwu.me"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AiverAiva&repo=weikuwu.me&theme=dracula&hide_border=true&border_radius=8&icon_color=FFB3B3" /></a>
+        <a href="https://github.com/AiverAiva/Endfield-Permit-Export"><img src="https://github-readme-stats-tan-five-90.vercel.app/api/pin/?username=AiverAiva&repo=Endfield-Permit-Export&theme=dracula&hide_border=true&border_radius=8&icon_color=FFB3B3" /></a>
       </td>
       <td>
-        <a href="https://github.com/AiverAiva/Wynnpool"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AiverAiva&repo=Wynnpool&theme=dracula&hide_border=true&border_radius=8&icon_color=FFB3B3" /></a>
+        <a href="https://github.com/AiverAiva/Wynnpool"><img src="https://github-readme-stats-tan-five-90.vercel.app/api/pin/?username=AiverAiva&repo=Wynnpool&theme=dracula&hide_border=true&border_radius=8&icon_color=FFB3B3" /></a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/AiverAiva/osu-box"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AiverAiva&repo=osu-box&theme=dracula&hide_border=true&border_radius=8&icon_color=FFB3B3" /></a>
+        <a href="https://github.com/AiverAiva/osu-box"><img src="https://github-readme-stats-tan-five-90.vercel.app/api/pin/?username=AiverAiva&repo=osu-box&theme=dracula&hide_border=true&border_radius=8&icon_color=FFB3B3" /></a>
       </td>
       <td>
-        <a href="https://github.com/AiverAiva/osu-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AiverAiva&repo=api&theme=dracula&hide_border=true&border_radius=8&icon_color=FFB3B3" /></a>
+        <a href="https://github.com/AiverAiva/meoww"><img src="https://github-readme-stats-tan-five-90.vercel.app/api/pin/?username=AiverAiva&repo=meoww&theme=dracula&hide_border=true&border_radius=8&icon_color=FFB3B3" /></a>
       </td>
   <!--     <td>
         <a href="https://github.com/AiverAiva/osu-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AiverAiva&repo=osu-stats" /></a>
