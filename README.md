@@ -30,50 +30,5 @@
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiverAiva&show_icons=true&icon_color=df648c&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true"/> -->
 
 </details>
-<details>
-<summary>
-  
 
-
-## 🔭 What I’m currently working on 
-</summary>
-  <table align="center">
-    <tr>
-      <td>
-        <a href="https://github.com/AiverAiva/Endfield-Permit-Export"><img src="https://github-readme-stats-tan-five-90.vercel.app/api/pin/?username=AiverAiva&repo=Endfield-Permit-Export&theme=dracula&hide_border=true&border_radius=8&icon_color=FFB3B3" /></a>
-      </td>
-      <td>
-        <a href="https://github.com/AiverAiva/Wynnpool"><img src="https://github-readme-stats-tan-five-90.vercel.app/api/pin/?username=AiverAiva&repo=Wynnpool&theme=dracula&hide_border=true&border_radius=8&icon_color=FFB3B3" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/AiverAiva/osu-box"><img src="https://github-readme-stats-tan-five-90.vercel.app/api/pin/?username=AiverAiva&repo=osu-box&theme=dracula&hide_border=true&border_radius=8&icon_color=FFB3B3" /></a>
-      </td>
-      <td>
-        <a href="https://github.com/AiverAiva/meoww"><img src="https://github-readme-stats-tan-five-90.vercel.app/api/pin/?username=AiverAiva&repo=meoww&theme=dracula&hide_border=true&border_radius=8&icon_color=FFB3B3" /></a>
-      </td>
-  <!--     <td>
-        <a href="https://github.com/AiverAiva/osu-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AiverAiva&repo=osu-stats" /></a>
-      </td> -->
-    </tr>
-  </table>
-</details>
-
-<details>
-<summary>
-
-## 🥇 Best repos in my mind
-</summary>
-thefuck - https://github.com/nvbn/thefuck
-</details>
-
-
-<details>
-<summary>
-
-## 👯 I’m looking to collaborate on ...
-</summary>
-MACHINE LEARNING STUFF
-</details>
 
